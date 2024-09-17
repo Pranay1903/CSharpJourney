@@ -13,7 +13,8 @@ namespace CSharpJourney
     internal class Datatypes
     {
 
-         static void Main(string[] args) {
+        public static void DisplayDatatypes()
+        {
 
             //integer size-4 bytes 
             int num = 10;
@@ -45,8 +46,8 @@ namespace CSharpJourney
             Console.WriteLine(d1);
 
             //bool size-1 bit 
-            bool b1=true;
-            bool b2=false; 
+            bool b1 = true;
+            bool b2 = false;
             Console.WriteLine(b1);
             Console.WriteLine(b2);
 
@@ -71,7 +72,7 @@ namespace CSharpJourney
             int myInt = 9;
             double myDouble = myInt; // Automatic casting: int to double
 
-            Console.WriteLine("Int value:" + myInt);     
+            Console.WriteLine("Int value:" + myInt);
             Console.WriteLine("Double value:" + myDouble);
 
 

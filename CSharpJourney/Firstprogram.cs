@@ -10,11 +10,15 @@ namespace CSharpJourney
     {
         //static void Main(string[] args)
         //{
+        public Firstprogram()
+        {
+
             string name = "pranay";
-            
-            //Console.WriteLine(name + " " + (15 + 15) );
-            
-          //  Console.WriteLine("First Program");
+            Console.WriteLine(name);
+        }
+
+
+        //  Console.WriteLine("First Program");
         //}
     }
 }
