@@ -12,7 +12,6 @@ namespace CSharpJourney
         //{
         public Firstprogram()
         {
-
             string name = "pranay";
             Console.WriteLine(name);
         }

@@ -20,7 +20,7 @@ namespace CSharpJourney
         Console.WriteLine($"a / b = {a / b}");  // Division
         Console.WriteLine($"a % b = {a % b}");  // Modulas
 
-        // Relational Operators
+        // Relational Operators(Comparison)
         Console.WriteLine($"a == b: {a == b}"); // Equal to
         Console.WriteLine($"a != b: {a != b}"); // Not equal to
         Console.WriteLine($"a > b: {a > b}");   // Greater than
