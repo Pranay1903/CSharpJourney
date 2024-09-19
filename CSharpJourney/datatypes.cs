@@ -88,6 +88,23 @@ namespace CSharpJourney
 
             Console.WriteLine("Welcome to CSharpJourney: " + Name);
 
+
+            // Type conversion methods
+            // Convert.ToBoolean - converst in boolean
+            // Convert.ToDouble - converts in double(floating point number)
+            // Convert.ToString - converts in string
+            // Convert.ToInt32 (int) - converts a value to integer
+            // Convert.ToInt64 (long) - converts a value to long
+
+            int Int1 = 10;
+            double Double1 = 5.25;
+            bool Bool1 = true;
+
+            Console.WriteLine(Convert.ToString(Int1));    // convert int to string
+            Console.WriteLine(Convert.ToDouble(Int1));    // convert int to double
+            Console.WriteLine(Convert.ToInt32(Double1));  // convert double to int
+            Console.WriteLine(Convert.ToString(Bool1));   // convert bool to string
+
         }
 
     }
