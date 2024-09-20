@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpJourney")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61d592b1a8c35a8a2fa8048f77d661eab88d0661")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed845a774ed66551a4b3bbab2cdc6d52c39bf6cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpJourney")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpJourney")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
