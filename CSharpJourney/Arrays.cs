@@ -42,6 +42,32 @@ namespace CSharpJourney
                 Console.WriteLine(i);
             }
 
+            // Sorting the array
+
+            // Sorting a string
+            Array.Sort(cars);
+            Console.WriteLine("Sorted cars array:");
+            foreach (string i in cars)
+            {
+                Console.WriteLine(i);
+            }
+
+            // Sorting a int
+            Array.Sort(myNum);
+            foreach (int i in myNum)
+            {
+                Console.WriteLine(i);
+            }
+
+            // System.Linq Namespace
+            // Other useful array methods, such as Min, Max, and Sum, can be found in the System.Linq namespace
+
+            Console.WriteLine($"largest value of mynum array: {myNum.Max()}");  // returns the largest value
+            Console.WriteLine($"Smallest value of mynum array: {myNum.Min()}");  // returns the smallest value
+            Console.WriteLine($"Sum of mynum array elements: {myNum.Sum()}");  // returns the sum of elements
+
+
+
         }
     }
 }
