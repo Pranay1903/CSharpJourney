@@ -11,7 +11,8 @@
             //Operator operators = new Operator();
             //Switch obj1 = new Switch();
             //Loops obj = new Loops();
-            Arrays ob = new Arrays();
+            // Arrays ob = new Arrays();
+            Methods ob = new Methods();
             //Console.WriteLine("Hello, World!");
             //ConditionalStatments obj = new ConditionalStatments();
 
