@@ -28,15 +28,15 @@ namespace CSharpJourney
     // Program class to demonstrate object creation
     internal class Program
     {
-        private static void Main(string[] args)
-        {
-            // Create an object of the Person class
-            Person person1 = new Person("Pranay", 20);
-            Person person2 = new Person("Neel", 25);
+        //private static void Main(string[] args)
+        //{
+        //    // Create an object of the Person class
+        //    Person person1 = new Person("Pranay", 20);
+        //    Person person2 = new Person("Neel", 25);
 
-            // Call the DisplayInfo method
-            person1.DisplayInfo();
-            person2.DisplayInfo();
-        }
+        //    // Call the DisplayInfo method
+        //    person1.DisplayInfo();
+        //    person2.DisplayInfo();
+        //}
     }
 }

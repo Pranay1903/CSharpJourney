@@ -30,16 +30,26 @@
 //Methods.StaticGreet();
 
             // Calling default constructor
-            Constructors ob = new Constructors();
-            ob.DisplayInfo();
+            //Constructors ob = new Constructors();
+            //ob.DisplayInfo();
             
             // Calling parameterized constructor
-            Constructors ob1 = new Constructors("Pranay Patel", 21);
-            ob1.DisplayInfo();
+            //Constructors ob1 = new Constructors("Pranay Patel", 21);
+            //ob1.DisplayInfo();
 
             // Calling copy constructor
-            Constructors ob2 = new Constructors(ob1);
-            ob2.DisplayInfo();
+            //Constructors ob2 = new Constructors(ob1);
+            //ob2.DisplayInfo();
+
+            //AccessModifiers accessModifiers = new AccessModifiers();
+            //accessModifiers.SetDefaultValues();
+            //accessModifiers.DisplayInfo();
+
+            //accessModifiers.SetValues("Pranay", 20);
+            //accessModifiers.DisplayInfo();
+
+            //accessModifiers.SetAge(21);
+            //accessModifiers.DisplayInfo();
 
 
 //Console.WriteLine("Hello, World!");
