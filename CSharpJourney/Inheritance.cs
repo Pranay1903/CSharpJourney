@@ -68,13 +68,13 @@ namespace CSharpJourney
 
     class Inheritance
     {
-        static void Main(string[] args)
-        {
-            People person = new People("Pranay", 22);
-            person.DisplayInfo();
+        //static void Main(string[] args)
+        //{
+        //    People person = new People("Pranay", 22);
+        //    person.DisplayInfo();
 
-            Student student = new Student("Krishna", 20, "S123");
-            student.DisplayInfo();
-        }
+        //    Student student = new Student("Krishna", 20, "S123");
+        //    student.DisplayInfo();
+        //}
     }
 }
