@@ -32,15 +32,15 @@ namespace CSharpJourney
 
     class Polymorphism 
     {
-        public static void Main(string[] args) 
-        {
-            Animal myAnimal = new Animal(); // Create an Animal object
-            Animal myPig = new Pig(); // Create a Pig object
-            Animal myDog = new Dog(); // Create a Dog object
+        //public static void Main(string[] args) 
+        //{
+            //Animal myAnimal = new Animal(); // Create an Animal object
+            //Animal myPig = new Pig(); // Create a Pig object
+            //Animal myDog = new Dog(); // Create a Dog object
 
-            myAnimal.AnimalSound();
-            myPig.AnimalSound(); 
-            myDog.AnimalSound(); 
-        }
+            //myAnimal.AnimalSound();
+            //myPig.AnimalSound(); 
+            //myDog.AnimalSound(); 
+        //}
     }
 }
