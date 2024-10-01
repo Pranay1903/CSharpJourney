@@ -16,7 +16,7 @@ namespace CSharpJourney
 
     class Pig : Animal // Derived class
     {
-        public override void AnimalSound() 
+        public override void AnimalSound()
         {
             Console.WriteLine("The pig says: wee wee");
         }
